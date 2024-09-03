@@ -1,1 +1,1 @@
-print('hola como estas esta es una pruba para python ')
+print('Hola desde mi maquina')
